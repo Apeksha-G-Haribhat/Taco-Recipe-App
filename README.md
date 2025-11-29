@@ -45,3 +45,7 @@ How to pass data from backend (Node.js) to frontend (EJS)
 Basic routing with Express
 
 Organizing files in a Node project
+
+
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/63253776-3b1c-4ed0-a19f-da1905325dd5" />
+
